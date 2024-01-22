@@ -1,0 +1,43 @@
+@import url("fonts/fonts.css");
+
+p {
+    color: red;
+}
+
+.TextClass1 {
+    font-size: 55px;
+    color: white;
+}
+.product {
+
+    margin-right: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.product img {
+    width: 100%;
+    max-width: 300px;
+    text-align: center;
+    box-shadow: 1px 1px 12px 1px darkgrey;
+}
+
+.candyFont {
+    font-family: "VDS";
+    color: white;
+    text-shadow: 3px 3px 8px darkslateblue;
+}
+
+.productName {
+    font-size: 36px;
+}
+
+.CartBtn {
+    font-size: 200%;
+
+}
+
+.NameAndPrice{
+    margin-top: 0.5%;
+    display: inline-block;
+}
